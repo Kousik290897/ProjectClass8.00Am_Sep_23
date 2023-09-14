@@ -5,8 +5,8 @@ import org.testng.annotations.Test;
 public class MainTest {
 	@Test
 		private void test() {
-			System.out.println("test 4" );
-			System.out.println("test 6" );
+			System.out.println("test 8" );
+			System.out.println("test 9" );
 		}
 	}
 
